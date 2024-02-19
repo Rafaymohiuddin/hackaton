@@ -1,0 +1,53 @@
+*{
+    /* background-color: #6c757d; */
+}
+
+:root{
+    --primary-color:#fd4c82;
+    --sec-color:#000;
+
+}
+.top{
+    padding: 20px;
+}
+
+.header{
+   
+}
+.logo img, .end-logo img{
+    height: 40px;
+    width: 160px;
+}
+   
+
+
+.free{
+    background-color: var(--primary-color);
+    padding: 10px;
+    border-radius:5px; ;
+}
+.end-logo a{
+    background-color: var(--primary-color);
+    padding: 10px;
+    color: #fff;
+    border-radius: 8px;
+
+}
+.services ul li{
+    list-style-type: none;
+    padding: 10px;
+
+}
+.add a{
+    color: var(--primary-color);
+    padding: 10px;
+    text-decoration: none;
+}
+.banner{
+    background-image: url(./assets/image\ 152.png);
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+
+}
+
